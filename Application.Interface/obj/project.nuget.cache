@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOfS583qI5ZoizlNJBdJzeeGJrz3kbh7gaHP4VdS7GjOBODt2lqE62u76uA+yQ8IQzijQ1aqOozAhPFMPaWiNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARQ-SW\\Desktop\\Ecommerce\\Application.Interface\\Application.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARQ-SW\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

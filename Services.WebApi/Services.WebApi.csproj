@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\ARQ-SW\source\repos\Ecommerce\Services.WebApi\Services.WebApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.22" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.17.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.3.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.17.0" />
+    <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.DTO\Application.DTO.csproj" />
+    <ProjectReference Include="..\Application.Interface\Application.Interface.csproj" />
+    <ProjectReference Include="..\Application.Main\Application.Main.csproj" />
+    <ProjectReference Include="..\Domain.Core\Domain.Core.csproj" />
+    <ProjectReference Include="..\Domain.Entity\Domain.Entity.csproj" />
+    <ProjectReference Include="..\Domain.Interface\Domain.Interface.csproj" />
+    <ProjectReference Include="..\Infraestructura.Data\Infraestructura.Data.csproj" />
+    <ProjectReference Include="..\Infraestructura.Interface\Infraestructura.Interface.csproj" />
+    <ProjectReference Include="..\Infraestructura.Repository\Infraestructura.Repository.csproj" />
+    <ProjectReference Include="..\Transversal.Common\Transversal.Common.csproj" />
+    <ProjectReference Include="..\Transversal.Logging.new\Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Transversal.Mapper\Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+
+</Project>

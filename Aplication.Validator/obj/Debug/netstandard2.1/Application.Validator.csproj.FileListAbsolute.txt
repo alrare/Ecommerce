@@ -1,0 +1,13 @@
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\bin\Debug\netstandard2.1\Application.Validator.deps.json
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\bin\Debug\netstandard2.1\Application.Validator.dll
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\bin\Debug\netstandard2.1\Application.Validator.pdb
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\bin\Debug\netstandard2.1\Application.DTO.dll
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\bin\Debug\netstandard2.1\Application.DTO.pdb
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.csproj.AssemblyReference.cache
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.AssemblyInfoInputs.cache
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.AssemblyInfo.cs
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.csproj.CoreCompileInputs.cache
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.csproj.CopyComplete
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.dll
+C:\Users\ARQ-SW\Desktop\Ecommerce\Aplication.Validator\obj\Debug\netstandard2.1\Application.Validator.pdb
